@@ -4,6 +4,8 @@
 
 #define MAX_SOLUTIONS 100
 
+// Hello
+
 int main(void) {
 
     int a, b, c;
